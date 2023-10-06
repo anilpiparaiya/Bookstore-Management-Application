@@ -1,6 +1,6 @@
 # Bookstore Management Application
 
-# Please follow the given procedure to see the result
+## Please follow the given procedure to see the result
 ## Step: 1
   Clone the directory using command `git clone https://github.com/anilpiparaiya/Bookstore-Management-Application`
 ## Step: 2
