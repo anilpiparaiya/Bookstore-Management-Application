@@ -8,8 +8,8 @@
   run the following command `npm i` for both the directories
   You will see server start at port : 5173 for frontend and for backend at 5555
 ## Step: 3
-   run `npm run dev` on terminal
-   Open any browser and type `http://localhost:5173/`
+   Hit the next command `npm run dev` on terminal
+   Open any browser and type `http://localhost:5173/` or server will start in your respective browser (Chrome or Brave)
 
 ### Note
  You may need permisson to clone the repository untill we set it public.<br>
