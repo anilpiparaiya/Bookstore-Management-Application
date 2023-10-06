@@ -4,6 +4,10 @@
 ## Step: 1
   Clone the directory using command `git clone https://github.com/anilpiparaiya/Bookstore-Management-Application`
 ## Step: 2
+  ### Install Dependencies
+**For Backend** - `npm install`
+**For Frontend** - `cd frontend` ` npm install`
+
   Open the directory and `cd` over to backend and frontend in two separate terminal
   run the following command `npm i` for both the directories
   You will see server start at port : 5173 for frontend and for backend at 5555
@@ -16,3 +20,9 @@
  
 
 `Thank You!`
+
+
+
+
+
+
